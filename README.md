@@ -66,12 +66,7 @@ You've successfully run and modified your React Native App. :partying_face:
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/rHgv4vt/Whats-App-Image-2024-06-11-at-2-31-06-PM.jpg)
-
-
-![App Screenshot](https://i.ibb.co/LSz5brJ/Whats-App-Image-2024-06-11-at-2-31-05-PM.jpg)
-
-![App Screenshot](https://i.ibb.co/C1rZwYg/6ed22318-823c-4663-a5dc-18e7d30afa99.jpg)
+![App Screenshot](/screenshots.png)
 
 
 ## License
